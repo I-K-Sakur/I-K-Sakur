@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&duration=5005&pause=1000&color=A5FF53&background=000000&center=true&vCenter=true&multiline=true&width=500&lines=Hi+my+name+is+Sakur;I+am+23+years+old;I+am+a+hardworking+boy;Having+a+great+Plan;For+my+Future.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&duration=5005&pause=1000&color=A5FF53&background=000000&center=true&vCenter=true&multiline=true&width=500&separator=%3C&lines=Hi+my+name+is+Sakur;%3CI+am+23+years+old%3CI+am+a+hardworking+boy%3CHaving+a+great+Plan%3CFor+my+Future." alt="Typing SVG" /></a>
 <!--
 **I-K-Sakur/I-K-Sakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
