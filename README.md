@@ -20,8 +20,8 @@
                      Working on a game related to drone
 - 🚀 Previous Projects
 -
-        [1.The DeadHall:Jombie types game]
-        [2.Captain-Zoro:FPS story based game]
+        2D Game-Development: https://github.com/I-K-Sakur/2D-GameDevelopment
+        3D Game-Development: https://github.com/I-K-Sakur/3D-Game-Development
 - 💬 Let's Connect:
 -
     Feel free to reach out to me if you're interested in collaborating on indie game projects, discussing game development trends, or sharing tips and tricks.
