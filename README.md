@@ -25,12 +25,12 @@
 - 💬 Let's Connect:
 -
     Feel free to reach out to me if you're interested in collaborating on indie game projects, discussing game development trends, or sharing tips and tricks.
-- 💬 Ask me about:   "Ask me about"
+- 💬 Ask me about:  
  - 
-                    "indie game development, especially using Unity and C#."
+                    "Indie game development, especially using Unity and C#."
                     " about game design trends and how to create engaging gameplay mechanics."
                     " about my journey as an indie game developer and the lessons I've learned along the way."
-                    " about my favorite indie games and what makes them stand out."
+                    " about my favorite indie games."
 - 📫 How to reach me:
   -
        ✉️ Email: mdiftakharkabirsakur@gmail.com
