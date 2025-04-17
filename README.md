@@ -4,14 +4,14 @@
 - 🔭 I’m currently working on
 -
                  Different types of Project in Unity
-                 Making Mobile Apps using Androind Studio
+                 Making software using Python
                  
 - 🌱 I’m currently learning:
 -
-                 Unity and Android Studio
+                 Unity and Python
 - 📚 Skills and Tools: Programming Languages:
 -
-             C,C++,C#,Lua,Dart
+             C,C++,C#,Lua,Python
 - 🌱 Game Engines:
 -
                 Unity Engine & Love2d FrameWork
@@ -35,6 +35,7 @@
   -
        ✉️ Email: mdiftakharkabirsakur@gmail.com
        🔗LinkedIn: https://www.linkedin.com/in/md-iftakhar-kabir-sakur/
+          Portfolio: https://i-k-sakur.github.io/Md-Iftakhar-Kabir-Sakur/
 - ⚡ Fun fact:
 -
                I am too much additcted to the Game Development
